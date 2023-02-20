@@ -5,7 +5,7 @@ Preview :
 
 # Retrieve all albums 
  
- curl http://localhost:8080/albums
+     curl http://localhost:8080/albums
       
 # Retrieve single album using ID
 
